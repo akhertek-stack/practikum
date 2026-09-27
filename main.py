@@ -1,4 +1,4 @@
-print("Привет", "Python!")
+#1print("Привет", "Python!")
 
 #2print("Привет", "Python!")
 
